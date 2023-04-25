@@ -19,7 +19,16 @@
  <h3>Languages and tools</h3>
  <div align="left">
    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" tittle="Angular" alt = "ANGULAR" width="40" heigth="40" />
-   
+   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-plain-wordmark.svg" tittle="Angular" alt = "ANGULAR" width="40" heigth="40" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" tittle="Angular" alt = "ANGULAR" width="40" heigth="40" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" tittle="Angular" alt = "ANGULAR" width="40" heigth="40" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" tittle="Angular" alt = "ANGULAR" width="40" heigth="40" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" tittle="Angular" alt = "ANGULAR" width="40" heigth="40" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" tittle="Angular" alt = "ANGULAR" width="40" heigth="40" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" tittle="Angular" alt = "ANGULAR" width="40" heigth="40" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" tittle="Angular" alt = "ANGULAR" width="40" heigth="40" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" tittle="Angular" alt = "ANGULAR" width="40" heigth="40" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-plain.svg" tittle="Angular" alt = "ANGULAR" width="40" heigth="40" />
  </div>
  
 

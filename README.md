@@ -16,7 +16,11 @@
  ### ⚡ About me:
  WebSite on [DanielaAndreaGonzalezHenao](https://danielaandreagonzalez.github.io/ejemplo-pagina-web/)
  
- 
+ <h3>Languages and tools</h3>
+ <div align="left">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" tittle="Angular" alt = "ANGULAR" width="40" heigth="40" />
+   
+ </div>
  
 
 <!--

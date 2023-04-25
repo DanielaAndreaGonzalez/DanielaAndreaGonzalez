@@ -29,8 +29,19 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" tittle="Angular" alt = "ANGULAR" width="40" heigth="40" />
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" tittle="Angular" alt = "ANGULAR" width="40" heigth="40" />
    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-plain.svg" tittle="Angular" alt = "ANGULAR" width="40" heigth="40" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain.svg" tittle="Angular" alt = "ANGULAR" width="40" heigth="40" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" tittle="Angular" alt = "ANGULAR" width="40" heigth="40" />
  </div>
  
+---
+
+### My Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielaAndrea&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![Daniela GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniela&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniela&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **DanielaAndreaGonzalez/DanielaAndreaGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
